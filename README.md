@@ -13,8 +13,8 @@ __[Instant Classroom name generator](https://www.superteachertools.us/myclassroo
 
 The repository contains the following files:
 
-'Name_generator_input.ipynb' -- the Jupyter notebook file (R kernel).
-'README.md' -- this file.
-'roster.csv' -- a sample of Blackboard gradebook file included for demonstration purposes. The file contains some fake students' data and it can be run smoothly with the notebook file.
+1. 'Name_generator_input.ipynb' -- the Jupyter notebook file (R kernel).
+2. 'README.md' -- this file.
+3. 'roster.csv' -- a sample of Blackboard gradebook file included for demonstration purposes. The file contains some fake students' data and it can be run smoothly with the notebook file.
 
 
